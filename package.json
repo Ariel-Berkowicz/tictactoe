@@ -1,0 +1,14 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "4x4 Tic-Tac-Toe / Connect Four solver",
+  "type": "module",
+  "engines": {
+    "node": ">=23.6"
+  },
+  "scripts": {
+    "start": "node src/cli.ts",
+    "test": "node --test \"src/**/*.test.ts\""
+  }
+}
