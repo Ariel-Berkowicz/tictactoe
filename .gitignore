@@ -43,3 +43,6 @@ next-env.d.ts
 
 # Node.js localStorage file
 .node-localstorage.json
+
+# Windows crash dumps
+*.stackdump
